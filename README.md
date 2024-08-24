@@ -17,13 +17,15 @@ Libraries:
 The IMDb dataset consists of 50,000 movie reviews labeled as either positive or negative. Each review is a text string that will be processed and converted into vectors using an embedding layer before being fed into the RNN model.
 
 ## How to Run
-### Clone the repository:
- #### git clone https://github.com/anshuljethani/imdb-movie-reviews-analysis.git
-### Navigate to the project directory:
- #### cd imdb-reviews-rnn
-### Install the required dependencies:
- #### pip install -r requirements.txt
-### Run the Streamlit app:
- #### streamlit run app.py
+#### Clone the repository:
+ ##### git clone https://github.com/anshuljethani/imdb-movie-reviews-analysis.git
+#### Navigate to the project directory:
+ ##### cd imdb-reviews-rnn
+#### Install the required dependencies:
+ ##### pip install -r requirements.txt
+#### Run the Streamlit app:
+ ##### streamlit run app.py
 
 ## Project Timeline- Aug 17th'24 - Aug 25th'24
+
+## IMDB keras dataset - https://keras.io/api/datasets/imdb/
