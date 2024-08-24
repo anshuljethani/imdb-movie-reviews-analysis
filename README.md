@@ -16,7 +16,7 @@ Libraries:
 ## IMDB Dataset Description
 The IMDb dataset consists of 50,000 movie reviews labeled as either positive or negative. Each review is a text string that will be processed and converted into vectors using an embedding layer before being fed into the RNN model.
 
-##How to Run
+## How to Run
 Clone the repository:
  ### git clone https://github.com/anshuljethani/imdb-movie-reviews-analysis.git
 Navigate to the project directory:
