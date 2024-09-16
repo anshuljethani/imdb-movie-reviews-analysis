@@ -19,4 +19,5 @@ The IMDb dataset consists of 50,000 movie reviews labeled as either positive or 
 
 ## Screenshots of the project -
 ![Screenshot 2024-09-16 at 1 21 29 PM](https://github.com/user-attachments/assets/ffb96be8-cbfe-4795-b4e9-0ac2686aaf4f)
+
 ![Screenshot 2024-09-16 at 1 24 42 PM](https://github.com/user-attachments/assets/b1450cb1-b3ad-4511-ab34-a9aa7c4261f9)
